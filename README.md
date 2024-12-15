@@ -23,5 +23,3 @@ Go to the web page navigate through the menu and go to "Get started".
 ## Live
 
 You can try out the Interval Workout Timer application by visiting the live demo at the following link:
-
-Happy exercising!
