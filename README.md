@@ -1,4 +1,3 @@
 # FitMunch
-Fitness Oriented Website 
-
+Fitness Oriented Website <br>
 AUTHOR : Karan Upadhyay
